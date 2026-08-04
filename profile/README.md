@@ -22,11 +22,11 @@ Primer vehículo del programa. Parámetros de diseño principales:
 - Propulsión: APCP (Ammonium Perchlorate Composite Propellant)
 - Masa de despegue: ~369 kg — Empuje: ~7.310 N — TWR: ~2.02
 - Tiempo de quemado: ~33.5 s
-- Apogeo estimado: ~11.45 km, alcanzando Mach 1 durante el ascenso
+- Apogeo estimado: ~11.45 km, alcanzando Mach 1 (343 m/s) durante el ascenso
 
 ## 👥 Equipo
 
-LASU reúne estudiantes y colaboradores de Uruguay, Argentina y Colombia, con respaldo académico de la Facultad de Ingeniería (UdelaR).
+LASU reúne estudiantes y colaboradores de Uruguay, Argentina y Colombia, con futuro respaldo académico de la Facultad de Ingeniería (UdelaR, Uruguay) y soporte financiero del Centro de Investigación y Difusión Aeronáutico-Espacial (CIDA-E).
 
 ## 📄 Licencia
 
