@@ -26,7 +26,7 @@ Primer vehículo del programa. Parámetros de diseño principales:
 
 ## 👥 Equipo
 
-LASU reúne estudiantes y colaboradores de Uruguay, Argentina y Colombia, con futuro respaldo académico de la Facultad de Ingeniería (UdelaR, Uruguay) y soporte financiero del Centro de Investigación y Difusión Aeronáutico-Espacial (CIDA-E), así como organismos como ANII, NASA, DINACIA, UNOOSA, INCO/IIMPI (FIng), y otros.
+LASU reúne estudiantes y colaboradores de Uruguay, Argentina y Colombia, con futuro respaldo académico de la Facultad de Ingeniería (UdelaR, Uruguay) y soporte financiero de la Agencia Nacional de Investigación e Innovación (ANII), así como organismos como CIDA-E, NASA, DINACIA, UNOOSA, INCO/IIMPI (FIng), y otros.
 
 ## 📄 Licencia
 
