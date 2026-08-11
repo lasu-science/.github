@@ -28,9 +28,10 @@ Primer vehículo del programa. Parámetros de diseño principales:
 
 LASU reúne estudiantes y colaboradores de Uruguay, Argentina y Colombia, con futuro respaldo académico de la Facultad de Ingeniería (UdelaR, Uruguay) y soporte financiero de la Agencia Nacional de Investigación e Innovación (ANII), así como organismos como CIDA-E, NASA, DINACIA, UNOOSA, INCO/IIMPI (FIng), y otros.
 
-## 📄 Licencia
-
-Apache License 2.0
+> [!CAUTION]
+> Todos los repositorios se encuentran bajo la Licencia CC BY-NC 4.0.
+> 
+> Revisar las Políticas de seguridad en caso de haber encontrado una vulnerabilidad de seguridad.
 
 ---
 
