@@ -18,11 +18,11 @@ El **Programa TLV** es nuestro programa de desarrollo vehicular incremental, com
 
 Primer vehículo del programa. Parámetros de diseño principales:
 
-- Longitud: 5000 mm — Diámetro: 330 mm
+- Longitud: $$5000\text{ mm}$$ — Diámetro: $$330\text{ mm}$$
 - Propulsión: APCP (Ammonium Perchlorate Composite Propellant)
-- Masa de despegue: ~369 kg — Empuje: ~7.310 N — TWR: ~2.02
-- Tiempo de quemado: ~33.5 s
-- Apogeo estimado: ~11.45 km, alcanzando Mach 1 (343 m/s) durante el ascenso
+- Masa de despegue: $$\sim369\text{ kg}$$ — Empuje: $$\sim7.310\text{ N}$$ — TWR: $$\sim2.02$$
+- Tiempo de quemado: $$\sim33.5\text{ s}$$
+- Apogeo estimado: $$\sim11.45\text{ km}$$, alcanzando Mach 1 ($$343\text{ m/s}$$) durante el ascenso
 
 ## 👥 Equipo
 
