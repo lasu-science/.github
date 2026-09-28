@@ -6,7 +6,7 @@ LASU emerge con una misión clara: posicionar a Latinoamérica como actor serio,
 
 Nos presentamos como una comunidad abierta de ingenieros, investigadores, analistas y científicos que combina el respeto por los métodos clásicos con la innovación de vanguardia, avanzando con disciplina, criterio y ambición estratégica. Desarrollamos investigación aplicada, teorías físicas, sistemas aeroespaciales y proyectos de alto impacto con una sola premisa: el conocimiento no se improvisa, se construye con precisión, constancia y visión a largo plazo. LASU busca iniciar colaboraciones con los IAE y el CIDA-E para fortalecer el desarrollo en esta temprana etapa inicial y compartir conocimientos que impulsen el avance de nuevos proyectos. A su vez, cuando los cimientos tecnológicos estén en condiciones, aspiraremos a construir vínculos con instituciones como la ESA y Blue Origin, con la idea de avanzar hacia innovaciones de mayor alcance y abrir puertas a una cooperación internacional real.
 
-Para conocer más sobre LASU y su filosofía, explora nuestra Wiki: [lasu-science/.github/wiki](https://github.com/lasu-science/.github/wiki/Wiki-Técnica-Oficial) o la documentación oficial: [LASU Confluence (Atlassian)](https://lasuaero.atlassian.net/wiki/x/AYAG).
+Para conocer más sobre LASU, explora la documentación oficial: [LASU Confluence (Atlassian)](https://lasuaero.atlassian.net/wiki/x/AYAG) o la base de archivos [Google Drive](https://drive.google.com/drive/folders/16zdGoQR4FXCAz5YB5B499wCA_005O1YL?usp=sharing).
 
 <hr>
 
