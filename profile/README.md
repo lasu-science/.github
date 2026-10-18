@@ -39,7 +39,3 @@ Si encuentras una, puedes añadir un informe en un issue y lo revisaremos cuanto
 Detallar todos los factores anteriormente mencionados mejorará drásticamente la facilidad de identificación y erradicación de la vulnerabilidad.<br><sub>_(El issue será eliminado por cualquier contenido explícito, ofensivo o dañino incluido)_</sub>
 
 ¡Estaremos muy agradecidos con tus aportes para mantener la seguridad e integridad de la base de datos de LASU!
-
----
-
-<p align="center"><i>Un paso a la vez.</i></p>
