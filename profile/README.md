@@ -1,4 +1,4 @@
-![LASU's Banner](https://github.com/lasu-science/lasu-science.github.io/blob/010b2e522becc38b3cdad3bc4245a902c74792c3/archivos/logo/banner.png)
+![LASU's Banner](https://github.com/lasu-science/lasu-science.github.io/blob/5b5f1a14285b8180cb44f36cb8c2eda11853817b/archivos/logo/banner.png)
 
 # LASU — Unión Científica Latinoamericana
 
